@@ -17,7 +17,7 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    background: radial-gradient(circle, var(--primary-color), white);
+    background: radial-gradient(circle, var(--primary-color), #465362);
     color: white; /* Body Font White */
     line-height: 1.6;
     font-size: 16px;

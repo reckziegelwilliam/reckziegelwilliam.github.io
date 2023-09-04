@@ -10,14 +10,14 @@ const About: React.FC = () => {
             <div className="about-row">
                 <div className="about-item">
                     <Title />
-                    <ProfilePic />
                 </div>
+            </div>
+            <div className="about-row">
                 <div className="about-item">
                     <Bio />
                 </div>
             </div>
         </section>
-
     );
 }
 

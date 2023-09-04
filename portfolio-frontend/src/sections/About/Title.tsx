@@ -8,7 +8,13 @@ const Title: React.FC = () => {
                 William Reckziegel
             </div>
             <div className="title-contact">
-                Los Angeles, CA | 1 (207) 423-7861 | reckziegel.william@gmail.com
+                Full-Stack Developer
+            </div>
+            <div className="title-contact">
+                Los Angeles, CA 
+            </div>
+            <div className="title-contact">
+                reckziegel.william@gmail.com
             </div>
         </div>
     );
