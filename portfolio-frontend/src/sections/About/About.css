@@ -1,0 +1,15 @@
+#about-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-row {
+  display: flex;
+  flex-direction: row;
+  height: 25vh; /* Fills the first quarter of the viewport height */
+}
+
+.about-item {
+  flex: 1;
+  padding: 20px;
+}

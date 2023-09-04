@@ -1,0 +1,22 @@
+.experience {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.experience-card {
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.experience-card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.experience-card p {
+  font-size: 16px;
+  line-height: 1.5;
+}
