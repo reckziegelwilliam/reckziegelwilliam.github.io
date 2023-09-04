@@ -12,8 +12,7 @@
 
 .skills-category {
   flex: 1;
-  margin: 10px;
-  min-width: calc(50% - 20px); /* Changed from 33.33% to 50% for two columns */
+  min-width: calc(50% - 50px); /* Changed from 33.33% to 50% for two columns */
 }
 
 .skills-category h3 {
@@ -28,7 +27,6 @@
 }
 
 .skills-category ul li {
-  margin: 5px 0;
   padding: 2px;
   border-radius: 5px;
 }

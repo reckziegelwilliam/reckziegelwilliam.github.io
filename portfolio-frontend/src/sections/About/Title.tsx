@@ -10,12 +10,6 @@ const Title: React.FC = () => {
             <div className="title-contact">
                 Full-Stack Developer
             </div>
-            <div className="title-contact">
-                Los Angeles, CA 
-            </div>
-            <div className="title-contact">
-                reckziegel.william@gmail.com
-            </div>
         </div>
     );
 }

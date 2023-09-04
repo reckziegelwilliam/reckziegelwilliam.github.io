@@ -11,6 +11,9 @@
   color: white;
 }
 
+p {
+  font-size: 16px;
+}
 
 /* Media queries for responsiveness */
 @media (max-width: 768px) {

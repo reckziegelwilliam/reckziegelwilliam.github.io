@@ -8,14 +8,10 @@ const About: React.FC = () => {
     return (
         <section id="about-section">
             <div className="about-row">
-                <div className="about-item">
-                    <Title />
-                </div>
+                <Title />
             </div>
             <div className="about-row">
-                <div className="about-item">
-                    <Bio />
-                </div>
+                <Bio />
             </div>
         </section>
     );
